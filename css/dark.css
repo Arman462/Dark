@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-size: 20px;
+}
+header{
+    background-color: black;
+    text-align: center;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+header h1{
+    color: white;
+    letter-spacing: 20px;
+}
+
+header img{
+    width: 150px;
+}
+
+main{ 
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 20px;
+    padding-bottom: 30px;
+}
+
+main img{
+    max-width: 100%;
+}
+
+main p{
+    margin-top: 0;
+}
+
+h2{
+    font-size: 30px;
+    font-weight: bolder;
+    margin-bottom: 0;
+    text-align: center;
+}
+
+footer{
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding: 50px;
+}
